@@ -1,0 +1,17 @@
+vongexmain:
+  title: '     &eVongex Cloud     '
+  text:
+    - ' '
+    - ' &eПрофиль:'
+    - ' &fСтатус: %vault_prefix%'
+    - ' &fЗолота: &e6'
+    - ' &fУровень: &d%level%'
+    - ' &fEXP: %level_exp%'
+    - ''
+    - ' &fПрогресс уровня: &a%level_procent%'
+    - ' &a↪ %level_progress%'
+    - ''
+    - ' &fОнлайн: &a%online_hub1%'
+    - ' &fСервер: &ahub-1'
+    - ''
+    - '&ewww.vongexcloud.ru'
