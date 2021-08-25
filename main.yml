@@ -3,7 +3,7 @@ vongexmain:
   text:
     - ' '
     - ' &eПрофиль:'
-    - ' &fСтатус: %vault_prefix%'
+    - ' &fСтатус: %vongex_group_bungee%'
     - ' &fЗолота: &e%vongex_money%'
     - ' &fУровень: &d%level%'
     - ' &fEXP: %level_exp%'
