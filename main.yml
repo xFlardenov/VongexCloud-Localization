@@ -4,7 +4,7 @@ vongexmain:
     - ' '
     - ' &eПрофиль:'
     - ' &fСтатус: %vault_prefix%'
-    - ' &fЗолота: &e6'
+    - ' &fЗолота: &e%vongex_money%'
     - ' &fУровень: &d%level%'
     - ' &fEXP: %level_exp%'
     - ''
